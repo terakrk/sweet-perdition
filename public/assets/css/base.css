@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+}
+
+p {
+    font-family: 'Merriweather', serif;
+    line-height: 1.5rem;
+}
+
+img {
+    margin: auto;
+}
+
+li {
+    list-style: none;
+}
