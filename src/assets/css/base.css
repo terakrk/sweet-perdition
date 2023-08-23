@@ -51,6 +51,24 @@ cite {
     font-size: 2.5rem;
 }
 
+.blog-link {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+}
+
+.blog-link a {
+    text-decoration: none;
+    color: #336699 
+}
+
+.blog-link a:visited {
+    color: #993366;
+}
+
+.blog-link a:hover {
+    text-decoration: underline;
+}
+
 .container {
     max-width: 80%;
     margin: auto;

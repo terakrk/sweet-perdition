@@ -1,4 +1,4 @@
 ---
-title: "Blog Homepage"
+title: "Sweet Perdition"
 layout: "index.njk"
 ---

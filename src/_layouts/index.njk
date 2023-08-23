@@ -16,10 +16,11 @@ pagination:
     <link rel="stylesheet" href="/assets/css/base.css">
 </head>
 <body>
+ {% include 'header.njk' %}
     <ul>
     {%- for post in collections.blog | reverse -%}
     <li>
-        <h2><a href="{{ post.url | url}}">{{ post.data.title }}</a></h2>
+        <h2 class="blog-link"><a href="{{ post.url | url}}">{{ post.data.title }}</a></h2>
         {% if post.data.teaser %}
         <p>{{ post.data.teaser }}</p>
         {% endif %}
