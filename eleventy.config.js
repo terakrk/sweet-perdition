@@ -1,7 +1,6 @@
 // importing from config
 const {getBlog} = require('./config/collections/index.js');
 
-
 module.exports = function (eleventyConfig) {
     // Collections
     eleventyConfig.addCollection('blog', getBlog);
@@ -11,8 +10,9 @@ module.exports = function (eleventyConfig) {
       );
 
     // Images
-    eleventyConfig.addPassthroughCopy("**/*.jpeg");
-    eleventyConfig.addPassthroughCopy("**/*.jpg");
+    ['**/*/jpg', '**/*/jpeg'].forEach(path =>
+        eleventyConfig.addPassthroughCopy(path)
+        );
 
     return {
         dir: {

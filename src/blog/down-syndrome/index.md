@@ -5,6 +5,8 @@ published: true
 date: 2017-04-25
 teaser: "Fortunately, this little book is not a manual for forcing kids to do what you want."
 layout: 'post.njk'
+tags: blog
+categories: reviews, books, disability
 ---
 ![''](positivebehaviords.jpg)
 

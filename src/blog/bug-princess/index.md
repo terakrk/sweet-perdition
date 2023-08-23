@@ -5,6 +5,8 @@ slug: bug-princess
 published: true
 teaser: "This game packs a lot of entertainment for $5."
 layout: 'post.njk'
+tags: blog
+categories: reviews, video games
 ---
 ![''](bug-princess.jpeg)
 

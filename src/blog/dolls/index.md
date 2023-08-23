@@ -5,6 +5,8 @@ slug: dolls
 published: true
 teaser: "This would make a wonderful children’s movie if people weren’t getting gorily stabbed and shot and smashed into walls."
 layout: 'post.njk'
+tags: blog
+categories: reviews, movies
 ---
 ![''](dolls.jpg)
 

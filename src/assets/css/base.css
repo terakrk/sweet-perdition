@@ -2,7 +2,49 @@
     box-sizing: border-box;
 }
 
+body {
+    background-color: #fafafa;
+}
+
+blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid rebeccapurple;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+    quotes: "\201C""\201D""\2018""\2019";
+}
+
+blockquote:before {
+    color: rebeccapurple;
+    content: open-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-right: 0.25em;
+    vertical-align: -0.4em;
+}
+blockquote:after {
+    color: rebeccapurple;
+    content: close-quote;
+    font-size: 4em;
+    line-height: 0.1em;
+    margin-left: 0.25em;
+    vertical-align: -0.4em;
+}
+
+blockquote p {
+    display: inline;
+}
+
+cite {
+    display: block;
+    text-align: left;
+
+}
+
+
+
 .title {
+    color: rebeccapurple;
     font-family: 'Poppins', sans-serif;
     font-weight: 800;
     text-align: center;
@@ -15,12 +57,15 @@
 }
 
 p {
-    font-family: 'Merriweather', serif;
-    line-height: 1.5rem;
+    font-family: 'Roboto', serif;
+    line-height: 1.7rem;
 }
 
 img {
-    margin: auto;
+    margin: auto; 
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 li {
