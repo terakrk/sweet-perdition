@@ -11,7 +11,7 @@ I hesitate to call Jonathan Glazer's *The Zone of Interest* a horror film. Grant
 
 "Intimacy" really is the word. The film follows [Rudolf Hoss](https://en.wikipedia.org/wiki/Rudolf_H%C3%B6ss 'Wikipedia: Rudolf Hoss') (Christian Friedel) as he takes his kids fishing, talks about vacation plans with his wife, and works--as the commandant of the Auschwitz concentration camp. The family live right next to the camp, but they, and we, don't see any of the prisoners. As the kids are playing or Mrs. Hoss is gossiping with her friends we hear gunshots sometimes--a sterile *pop!*--or distant screaming. Even when Rudolf goes into the camp, the camera trains on his face and we're not face-to-face with the people he's torturing and killing. We just hear their screams.
 
-Our distance from the prisoners is the same as the Hosses. We literally don't see them, and they're easy to ignore. The film forces us to dehumanize the Jewish people while being up close and personal with literal Nazis.
+Our distance from the prisoners is the same as the Hosses'. We literally don't see them, and they're easy to ignore. The film forces us to dehumanize the Jewish people while being up close and personal with literal Nazis.
 
 And what separates us from this high-ranking Nazi officer and his family? Nothing.
 
