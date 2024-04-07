@@ -1,11 +1,11 @@
 ---
 title: "The Zone of Interest is a Mirror for Our Times"
 date: 2024-04-06
-permalink: the-zone-of-interest
+slug: zone-of-interest
 teaser: "You don't need to be special to do evil."
 layout: 'post.njk'
 category: blog
-tags: 'movies, reviews'
+tags: movies, reviews
 ---
 I hesitate to call Jonathan Glazer's *The Zone of Interest* a horror film. Granted, with films like *Under the Skin* Glazer is no stranger to the genre--and it *is* terrifying. But the banality of that horror--and the message that we are all capable of it--give the film an intimacy beyond even the most visceral gore film.
 
