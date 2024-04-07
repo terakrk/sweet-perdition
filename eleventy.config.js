@@ -14,6 +14,7 @@ module.exports = function (eleventyConfig) {
         eleventyConfig.addPassthroughCopy(path)
         );
 
+
     return {
         dir: {
             input: 'src',
