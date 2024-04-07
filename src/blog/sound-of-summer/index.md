@@ -2,6 +2,7 @@
 title: "The Sound of Summer is Gnarly in the Best Way"
 slug: sound-of-summer
 date: 2023-11-15
+published: true
 teaser: "As graphic as things get, the young woman's torment remains firmly in the realm of possibility--which makes it even worse."
 layout: 'post.njk'
 tags: blog
