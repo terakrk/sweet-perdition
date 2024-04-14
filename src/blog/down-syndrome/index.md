@@ -1,12 +1,11 @@
 ---
 title: "Supporting Positive Behavior in Children and Teens With Down Syndrome Is Actually a Great Book"
-slug: down-syndrome
+permalink: "./blog/down-syndrome/"
 published: true
 date: 2017-04-25
 teaser: "Fortunately, this little book is not a manual for forcing kids to do what you want."
 layout: 'post.njk'
-tags: blog
-categories: reviews, books, disability
+tags: ['reviews', 'books', 'disability']
 ---
 ![''](positivebehaviords.jpg)
 

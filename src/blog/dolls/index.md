@@ -1,12 +1,11 @@
 ---
 title: "Scream Factory's Release of Dolls (1987) is Magical"
 date: 2014-12-16
-slug: dolls
+permalink: "./blog/dolls/"
 published: true
 teaser: "This would make a wonderful children’s movie if people weren’t getting gorily stabbed and shot and smashed into walls."
 layout: 'post.njk'
-tags: blog
-categories: reviews, movies
+tags: ['movies', 'reviews']
 ---
 ![''](dolls.jpg)
 

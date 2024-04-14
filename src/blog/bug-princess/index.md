@@ -1,12 +1,11 @@
 ---
 title: "Bug Princess is $5 Well-Spent"
 date: 2014-11-13
-slug: bug-princess
+permalink: "./blog/bug-princess/"
 published: true
 teaser: "This game packs a lot of entertainment for $5."
 layout: 'post.njk'
-tags: blog
-categories: reviews, video games
+tags: ['reviews', 'video games']
 ---
 ![''](bug-princess.jpeg)
 
