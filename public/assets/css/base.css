@@ -22,7 +22,7 @@ cite {
     display: block;
     font-size: 1.2rem;
     text-align: left;
-
+    font-weight: 800;
 }
 
 .title {
@@ -74,4 +74,5 @@ li {
 
 figcaption {
   font-family: 'Roboto', serif;
+  line-height: 1.5rem;
 }
