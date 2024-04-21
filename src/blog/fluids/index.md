@@ -7,7 +7,7 @@ permalink: './blog/fluids/'
 tags: ['reviews', 'books', 'extreme horror', 'queer']
 ---
 <figure>
-<img src='/assets/images/fluids.jpg' alt="The cover of Fluids by May Leitz" /><br />
+<img src='/assets/images/fluids.jpg' alt="The cover of Fluids by May Leitz" />
 <figcaption> Image description: The cover of May Leitz's novel Fluids. There's a black background with a pink wide-open mouth, the word 'Fluids' in red lettering underneath it; the words 'May Leitz' are in yellow letters, pink and purple symbols for 'female'/'Venus' are interlocked together. Underneath are the words 'I can teach you how to like it' in white letters. On the far right is a purple knife. On top of that is a long list of trigger warnings: 'Eating Disorder, suicide, matricide, dismemberment, suffocation, abuse, rape, torture, incest.'</figcaption>
 </figure>
 

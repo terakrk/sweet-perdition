@@ -15,7 +15,6 @@ blockquote {
 
 blockquote p {
     display: inline;
-    font-size: 1.5rem;
 }
 
 cite {
@@ -75,4 +74,5 @@ li {
 figcaption {
   font-family: 'Roboto', serif;
   line-height: 1.5rem;
+  margin: 2rem 5rem;
 }
