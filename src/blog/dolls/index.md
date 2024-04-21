@@ -7,7 +7,6 @@ teaser: "This would make a wonderful children’s movie if people weren’t gett
 layout: 'post.njk'
 tags: ['movies', 'reviews']
 ---
-![''](dolls.jpg)
 
 On a dark and stormy night, seven-year-old Judy Bower (Carrie Lorraine) and her abusive guardians take shelter in an eerie house. The owners are a charming-if-strange elderly couple who make dolls.
 

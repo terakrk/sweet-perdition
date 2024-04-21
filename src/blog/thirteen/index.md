@@ -5,9 +5,9 @@ permalink: "./blog/thirteen/"
 published: true
 teaser: "The teenagers in this movie act like teenagers, for better and for worse."
 layout: 'post.njk'
-tags: blog
-categories: reviews, movies i watched with my mother, movies
+tags: ['movies', 'reviews', 'movies I watched with my mother']   
 ---
+
 Tracy Freeman (a young Evan Rachel Wood) is about to start seventh grade. She lives with her older brother and their mom, an addict in recovery who makes ends meet by working as a hairdresser out of their house. For her part, Tracy is a straight-A student who doesn't seem like the troublemaker type.
 
 But middle school is a hell of a thing. Buffeted by her chaotic home life and under the influence of her new friend Evie, Tracy starts stealing, doing drugs and having sex. While such a story could veer into salaciousness or, worse, after school special territory, *Thirteen* maintains an honesty and empathy for all the characters involved.

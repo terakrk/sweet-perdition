@@ -9,7 +9,7 @@ tags: ['reviews', 'movies', 'extreme horror']
 ---
 > Every great work of horror fiction is an exercise in  extreme empathy.
 
-<cite>--author [Joe Hill](https://joenazare.com/2018/11/18/best-lessons-eli-roths-history-of-horror-episodes-1-3/)</cite>
+<cite>--author [Joe Hill](https://joenazare.com/2018/11/18/best-lessons-eli-roths-history-of-horror-episodes-1-3/ "Best Lessons: Eli Roth's History of Horror")</cite>
 
 > URRRRGH GOD!
 

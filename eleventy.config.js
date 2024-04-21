@@ -5,15 +5,12 @@ module.exports = function (eleventyConfig) {
     // Collections
     eleventyConfig.addCollection('blog', getBlog);
     // CSS 
-    ['src/assets/css/', 'src/assets/images/'].forEach(path =>
+    ['src/assets/css/'].forEach(path =>
         eleventyConfig.addPassthroughCopy(path)
       );
 
     // Images
-    ['**/*/jpg', '**/*/jpeg'].forEach(path =>
-        eleventyConfig.addPassthroughCopy(path)
-        );
-
+  eleventyConfig.addPassthroughCopy('src/assets/images');
 
     return {
         dir: {
