@@ -6,9 +6,9 @@ teaser: 'It makes absolute sense that these women do the awful things they do, w
 permalink: './blog/fluids/'
 tags: ['reviews', 'books', 'extreme horror', 'queer']
 ---
-<figure>
+<figure role = "group" aria-labelledby="fig-fluids">
 <img src='/assets/images/fluids.jpg' alt="The cover of Fluids by May Leitz" />
-<figcaption> Image description: The cover of May Leitz's novel Fluids. There's a black background with a pink wide-open mouth, the word 'Fluids' in red lettering underneath it; the words 'May Leitz' are in yellow letters, pink and purple symbols for 'female'/'Venus' are interlocked together. Underneath are the words 'I can teach you how to like it' in white letters. On the far right is a purple knife. On top of that is a long list of trigger warnings: 'Eating Disorder, suicide, matricide, dismemberment, suffocation, abuse, rape, torture, incest.'</figcaption>
+<figcaption class="image-description" id="fig-fluids"> <p>[Image description: The cover of May Leitz's novel Fluids. There's a black background with a pink wide-open mouth, the word 'Fluids' in red lettering underneath it; the words 'May Leitz' are in yellow letters, pink and purple symbols for 'female'/'Venus' are interlocked together. Underneath are the words 'I can teach you how to like it' in white letters. On the far right is a purple knife. On top of that is a long list of trigger warnings: 'Eating Disorder, suicide, matricide, dismemberment, suffocation, abuse, rape, torture, incest.']</p></figcaption>
 </figure>
 
 Horror writer May Leitz says she has "a penchant for the shocking and gross." While her debut novel *Fluids* certainly is those things, they're natural outgrowths of the characters' mindsets and needs. It makes absolute sense that they do the things they do, which is the true horror (and tragedy) of the book.
