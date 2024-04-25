@@ -8,7 +8,9 @@ module.exports = function (eleventyConfig) {
     ['src/assets/css/'].forEach(path =>
         eleventyConfig.addPassthroughCopy(path)
       );
-
+      
+    // Fonts
+    eleventyConfig.addPassthroughCopy('src/assets/fonts');
     // Images
   eleventyConfig.addPassthroughCopy('src/assets/images');
 
