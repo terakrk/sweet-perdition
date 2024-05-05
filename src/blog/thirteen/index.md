@@ -4,8 +4,8 @@ date: 2024-04-14
 permalink: "./blog/thirteen/"
 published: true
 teaser: "The teenagers in this movie act like teenagers, for better and for worse."
-layout: 'post.njk'
-tags: ['movies', 'reviews', 'movies I watched with my mother']   
+layout: 'post.liquid'
+tags: ['blog', 'movies', 'reviews', 'movies I watched with my mother']   
 ---
 
 Tracy Freeman (a young Evan Rachel Wood) is about to start seventh grade. She lives with her older brother and their mom, an addict in recovery who makes ends meet by working as a hairdresser out of their house. For her part, Tracy is a straight-A student who doesn't seem like the troublemaker type.

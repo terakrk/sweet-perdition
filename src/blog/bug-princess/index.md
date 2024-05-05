@@ -4,8 +4,8 @@ date: 2014-11-13
 permalink: "./blog/bug-princess/"
 published: true
 teaser: "This game packs a lot of entertainment for $5."
-layout: 'post.njk'
-tags: ['reviews', 'video games']
+layout: 'post.liquid'
+tags: ['blog', 'reviews', 'video games']
 ---
 
 I know, I know—I’m not really the target audience for *Bug Princess (Mushihimesama).* The first I’d heard of developer its developer was when Cave appeared as a character in *Hyperdimension Neptunia mk2.* I don’t even have an Xbox 360, which several of their shooters have been released on. But I do like shoot-em-ups now and then, so when I finally got an iPad I knew that one of the first apps I wanted was a Cave game. And I’m not gonna lie—I chose *Bug Princess* because it was the cheapest. But, despite an odd design choice and the bare-bones nature of the port (especially compared to other Cave offerings), I’m really glad I did.

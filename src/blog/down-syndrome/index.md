@@ -4,8 +4,8 @@ permalink: "./blog/down-syndrome/"
 published: true
 date: 2017-04-25
 teaser: "Fortunately, this little book is not a manual for forcing kids to do what you want."
-layout: 'post.njk'
-tags: ['reviews', 'books', 'disability']
+layout: 'post.liquid'
+tags: ['blog', 'reviews', 'books', 'disability']
 ---
 
 Seeing Dr. David Stein’s [*Supporting Positive Behavior in Children and Teens with Down Syndrome*](https://www.amazon.com/Supporting-Positive-Behavior-Children-Syndrome/dp/1606132636) on the “New Books” shelf at the library, my first thought was: “Dear God! This sounds *awful!”* The title might as well have been “How to Force Kids to Comply and Punish Them When They Don’t.” But I checked out the blurb on the back anyway, because, as Lemony Snicket has taught us, warning somebody not to read something is a surefire way to get them to read it. Even–perhaps especially–if the one doing the warning is yourself.

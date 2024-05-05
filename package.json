@@ -5,6 +5,10 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "markdown-it": "^14.1.0"
+  },
+  "devDependencies": {
+    "markdown-it-eleventy-img": "^0.10.2"
   }
 }

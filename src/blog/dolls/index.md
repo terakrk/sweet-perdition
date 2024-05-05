@@ -4,8 +4,8 @@ date: 2014-12-16
 permalink: "./blog/dolls/"
 published: true
 teaser: "This would make a wonderful children’s movie if people weren’t getting gorily stabbed and shot and smashed into walls."
-layout: 'post.njk'
-tags: ['movies', 'reviews']
+layout: 'post.liquid'
+tags: ['blog', 'movies', 'reviews']
 ---
 
 On a dark and stormy night, seven-year-old Judy Bower (Carrie Lorraine) and her abusive guardians take shelter in an eerie house. The owners are a charming-if-strange elderly couple who make dolls.

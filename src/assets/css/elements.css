@@ -1,0 +1,94 @@
+  
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #fafafa;
+}
+
+blockquote {
+    background: #f9f9f9;
+    border-left: 10px solid rebeccapurple;
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
+
+blockquote p {
+    display: inline;
+}
+
+cite {
+    display: block;
+    font-size: 1.2rem;
+    text-align: left;
+    font-weight: 300;
+}
+
+.title {
+    color: rebeccapurple;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.blog-link {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+
+.blog-link a {
+    text-decoration: none;
+    color: #336699 
+}
+
+.blog-link a:visited {
+    color: #993366;
+}
+
+.blog-link a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+}
+
+p {
+    line-height: 1.7rem;
+}
+
+cite, p {
+  font-family: "Roboto", serif;
+}
+
+img {
+    margin: auto; 
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+}
+
+li {
+    list-style: none;
+}
+
+figcaption {
+  margin: 2rem;
+}
+
+
+.image-description, blockquote p {
+  font-weight: 300;
+}
+.sr-only {
+  position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}

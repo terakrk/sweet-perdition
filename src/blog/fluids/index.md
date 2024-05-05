@@ -1,17 +1,16 @@
 ---
 title: 'Fluids is a Strong, Disgusting Debut Novel'
-layout: 'post.njk'
+layout: 'post.liquid'
 date: 2024-04-20
 teaser: 'It makes absolute sense that these women do the awful things they do, which is the true horror (and tragedy) of the book.'
 permalink: './blog/fluids/'
-tags: ['reviews', 'books', 'extreme horror', 'queer']
+tags: ['blog', 'reviews', 'books', 'extreme horror', 'queer']
 ---
 <figure role = "group" aria-labelledby="fig-fluids">
-<img src='/assets/images/fluids.jpg' alt="The cover of Fluids by May Leitz" />
-<figcaption class="image-description" id="fig-fluids"> <p>[Image description: A black background with a pink wide-open mouth, teeth showing, the word 'Fluids' in red lettering underneath it. Directly underneath, the words 'May Leitz' are in yellow letters. To the right, two circles above crosses signifying 'female' are interlocked together--one pink, the other purple. Underneath them are the words 'I can teach you how to like it' in white letters. On the far right is a transparent purple knife. There's also a list of trigger warnings: 'eating disorder, suicide, matricide, dismemberment, suffocation, abuse, rape, torture, incest.']</p></figcaption>
+<img src="./fluids.jpg" alt = ""><figcaption class="image-description" id="fig-fluids"> <p>[Image description:<span class="sr-only"><a href="#fluids-first-para"> (skip to content)</a></span> A black background with a pink wide-open mouth, teeth showing, the word 'Fluids' in red lettering underneath it. Directly underneath, the words 'May Leitz' are in yellow letters. To the right, two circles above crosses signifying 'female' are interlocked together--one pink, the other purple. Underneath them are the words 'I can teach you how to like it' in white letters. On the far right is a transparent purple knife. There's also a list of trigger warnings: 'eating disorder, suicide, matricide, dismemberment, suffocation, abuse, rape, torture, incest.']</p></figcaption>
 </figure>
 
-Horror writer May Leitz says she has "a penchant for the shocking and gross." While her debut novel *Fluids* certainly is those things, they're natural outgrowths of the characters' mindsets and needs. It makes absolute sense that they do the things they do, which is the true horror (and tragedy) of the book.
+<p id="fluids-first-para">Horror writer May Leitz says she has "a penchant for the shocking and gross." While her debut novel *Fluids* certainly is those things, they're natural outgrowths of the characters' mindsets and needs. It makes absolute sense that they do the things they do, which is the true horror (and tragedy) of the book.</p>
 
 At the height of COVID lockdown, two isolated women connect on the Internet--Lauren, whose father has recently died of COVID, and Dahlia, a trans woman living in a deeply transphobic Oklahoma town. Despite the combined threat of the virus and meeting an Internet stranger in person, Lauren impulsively arrives to "rescue" Dahlia--and everything goes downhill from there.
 

@@ -1,4 +1,4 @@
 ---
 title: "Sweet Perdition"
-layout: "index.njk"
+layout: "blogindex.liquid"
 ---

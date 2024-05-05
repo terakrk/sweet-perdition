@@ -1,0 +1,17 @@
+---
+pagination:
+  data: collections.blog
+  size: 5
+  alias: blog
+layout: 'base.html'
+---
+<ul> 
+  {% for blog in collections.blog reversed %}
+  <li> 
+    <h2 class="blog-link"><a href="{{ blog.url | url }}">{{ blog.data.title }}</a></h2>
+    {% if blog.data.teaser %}
+    <p>{{ blog.data.teaser }}</p>
+    {% endif %}
+    </li>
+    {% endfor %}
+    </ul>
