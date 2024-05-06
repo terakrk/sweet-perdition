@@ -9,6 +9,7 @@
     "markdown-it": "^14.1.0"
   },
   "devDependencies": {
+    "@11ty/eleventy-plugin-rss": "^1.2.0",
     "markdown-it-eleventy-img": "^0.10.2"
   }
 }
