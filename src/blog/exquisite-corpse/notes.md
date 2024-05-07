@@ -11,3 +11,5 @@ According to the [Tate Museum,](https://www.tate.org.uk/art/art-terms/c/cadavre-
 - Luke Ransom: Tran's violent boyfriend who is also HIV positive. He has a pirate radio station, an alter ego and a lot of rage.
 
 A little over halfway through (chapter 9), the perspectives start bleeding together, with Anthony (first-person) and Jay (third-person) "speaking" without clear breaks. It's a little chaotic and confusing at first. 
+
+Themes of loneliness and isolation: Anthony and Jay "recognize" each other and fall in love; Jay's biggest fear is loneliness and Anthony recognizes him as someobe like himself. (Anthony has always felt like something different than other people, a monster, a mutation. Is this just serial killing or part of the queer experience?
