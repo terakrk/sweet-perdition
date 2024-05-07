@@ -2,6 +2,8 @@ According to the [Tate Museum,](https://www.tate.org.uk/art/art-terms/c/cadavre-
 
 - Andrew Compton: A London necrophile who escapes prison by pretending to be dead and traveling to New Orleans
 
+> I maintain that ideal victims are actually more similar than their murdering counterparts. An habitual killer needs a vivid personality, even if all that lies beneath the flash and scintillation is a howling emptiness. But even before his death, the victim is often more void than substance. 
+
 - Jay Byrne: A serial killer in New Orleans
 
 - Vinh Tran (Tran): Jay's would-be victim who is drawn to violence and leaves home after his father kicks him out when he finds letters from Tran's violent boyfriend.
