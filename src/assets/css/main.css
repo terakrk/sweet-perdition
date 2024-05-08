@@ -1,1 +1,132 @@
-@import "elements.css";
+ :root, html[data-theme="light"] {
+   --main-bg-color: #fafafa;
+   --bq-bg-color: #d3d3d3;
+   --link-color: #088F8F;
+   --link-visited: #bd7dbd; 
+   --bq-line-color: rebeccapurple;
+   --title-color: rebeccapurple;
+   --blog-link-color: #336699;
+   --blog-link-visited: #993366;
+   --bq-text: #3a3153;
+   --text: #3a3153;
+ }
+
+ html[data-theme="dark"] {
+  --main-bg-color: #280137;
+  --bq-line-color: #e68bbe;
+  --link-color: #7fffd4;
+  --link-visited: #d4af37;
+  --blog-link-color: #08e8de;
+  --blog-link-visited: #afe1af;
+  --title-color: #e68bbe;
+  --bq-text: #bbc2e0;
+  --text: #bbc2e0;
+ }
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+body {
+    background-color: var(--main-bg-color);
+    color: var(--text);
+}
+
+ a {
+   color: var(--link-color);
+ }
+
+ a:visited {
+   color: var(--link-visited);
+ }
+
+blockquote {
+    border-left: 10px solid var(--bq-line-color);
+    margin: 1.5em 10px;
+    padding: 0.5em 10px;
+}
+
+blockquote p {
+    display: inline;
+}
+
+cite {
+    display: block;
+    color: var(--bq-text);
+    font-size: 1.2rem;
+    text-align: left;
+    font-weight: 300;
+}
+
+.title {
+    color: var(--title-color);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    text-align: center;
+    font-size: 2.5rem;
+    text-wrap: balance;
+}
+
+.blog-link {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+}
+
+.blog-link a {
+    text-decoration: none;
+    color: var(--blog-link-color); 
+}
+
+.blog-link a:visited {
+    color: var(--blog-link-visited);
+}
+
+.blog-link a:hover {
+    text-decoration: underline;
+}
+
+.container {
+    max-width: 80%;
+    margin: auto;
+}
+
+p {
+    line-height: 1.7rem;
+}
+
+cite, p {
+  font-family: "Roboto", serif;
+}
+
+img {
+    margin: auto; 
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    border-radius: 12px;
+}
+
+li {
+    list-style: none;
+}
+
+figcaption {
+  margin: 2rem;
+  line-height: 3rem;
+}
+
+
+.image-description, blockquote p {
+  color: var(--bq-text);
+  font-weight: 400;
+}
+.sr-only {
+  position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+}
